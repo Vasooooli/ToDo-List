@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(68, 116, 138, 0.945); 
+}
+.table{
+    /* background-color: rgb(226, 162, 43);
+    color: black; */
+    border-radius: 10px;
+background-color:lightslategray;
+color: black;
+width:100%;
+}
+.form-label{
+    font-weight: bold;
+    font-size:x-large;
+}
+.desc-class{
+    font-weight: bold;
+    font-size:x-large;
+}
+
